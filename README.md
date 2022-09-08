@@ -90,7 +90,7 @@ Some Badges like
 If you have any feedback, please reach out to us at pankajmourya700@gmail.com
 
 
-## Authors
+## Author
 
 - [@pankajmourya007](https://www.github.com/pankajmourya007)
 
